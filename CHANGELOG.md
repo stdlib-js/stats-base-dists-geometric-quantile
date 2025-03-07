@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-08)
+## Unreleased (2025-03-07)
+
+<section class="features">
+
+### Features
+
+-   [`eac21cf`](https://github.com/stdlib-js/stdlib/commit/eac21cf605e4afe7ab072b71003384002e0f7254) - add C implementation for `stats/base/dists/geometric/quantile` [(#4094)](https://github.com/stdlib-js/stdlib/pull/4094)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3640](https://github.com/stdlib-js/stdlib/issues/3640)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`eac21cf`](https://github.com/stdlib-js/stdlib/commit/eac21cf605e4afe7ab072b71003384002e0f7254) - **feat:** add C implementation for `stats/base/dists/geometric/quantile` [(#4094)](https://github.com/stdlib-js/stdlib/pull/4094) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`bce4dac`](https://github.com/stdlib-js/stdlib/commit/bce4dac63618cd50985d7875d89933c116cd185d) - **bench:** refactor random number generation in `stats/base/dists/geometric` [(#4931)](https://github.com/stdlib-js/stdlib/pull/4931) _(by Karan Anand, stdlib-bot)_
 -   [`cbb3066`](https://github.com/stdlib-js/stdlib/commit/cbb3066fbd79eb555a86f3e429471cc3f87ed7ff) - **style:** add missing decimals _(by Athan Reines)_
 
@@ -25,10 +48,12 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
