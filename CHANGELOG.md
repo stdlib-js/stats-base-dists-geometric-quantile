@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-14)
+## Unreleased (2026-10-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`49bccbc`](https://github.com/stdlib-js/stdlib/commit/49bccbc505250dc86033c560f965a6e2c8b874f5) - **test:** migrate `stats/base/dists/geometric/quantile` to ULP-based assertions [(#16078)](https://github.com/stdlib-js/stdlib/pull/16078) _(by Athan Reines)_
 -   [`45e5fab`](https://github.com/stdlib-js/stdlib/commit/45e5fabec7c1617c1aa88cc757ade2f799221a38) - **bench:** refactor to use string interpolation in `stats/base/dists/geometric` [(#10361)](https://github.com/stdlib-js/stdlib/pull/10361) _(by Vishal Gaikwad, Athan Reines)_
 
 </details>
